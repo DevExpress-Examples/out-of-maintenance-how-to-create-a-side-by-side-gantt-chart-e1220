@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Series_SideBySideGanttChart/Form1.cs) (VB: [Form1.vb](./VB/Series_SideBySideGanttChart/Form1.vb))
+<!-- default file list end -->
 # How to create a Side-by-Side Gantt chart
 
 
